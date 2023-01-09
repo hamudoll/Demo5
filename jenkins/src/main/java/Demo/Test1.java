@@ -7,6 +7,6 @@ public class Test1 {
     @Test
     public void m1()
     {
-    	Reporter.log("Hello",true);
+    	Reporter.log("Hello1",true);
     }
 }
