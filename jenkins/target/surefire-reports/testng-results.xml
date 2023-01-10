@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hello1]]>
+    </line>
+    <line>
+      <![CDATA[Hii]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-09T18:40:08 IST" name="Suite" finished-at="2023-01-09T18:40:08 IST" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T18:40:08 IST" name="Test" finished-at="2023-01-09T18:40:08 IST" duration-ms="96">
+      <class name="Demo.Test2">
+        <test-method signature="m2()[pri:0, instance:Demo.Test2@15aab8c6]" started-at="2023-01-09T18:40:08 IST" name="m2" finished-at="2023-01-09T18:40:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hii]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- Demo.Test2 -->
+      <class name="Demo.Test1">
+        <test-method signature="m1()[pri:0, instance:Demo.Test1@31e5415e]" started-at="2023-01-09T18:40:08 IST" name="m1" finished-at="2023-01-09T18:40:08 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- Demo.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
